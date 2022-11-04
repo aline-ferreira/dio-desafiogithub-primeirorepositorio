@@ -1,0 +1,9 @@
+Comandos importantes:
+
+Git init: Inicializa um repositório Git
+
+Git Clone: Faz a cópia de um repositório na nuvem para a máquina
+
+git comit: faz um comit das alterações 
+
+git push: envia para o github os comits já realizados
